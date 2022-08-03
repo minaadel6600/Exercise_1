@@ -10,14 +10,14 @@
 ## to run the APIs
 
 1. To install dependencies run the command 
+
 npm install
-```
+
 
 2. Run Server run the command 
 
-```bash
+
 node server.js
-```
 
 You can browse the apis at <http://localhost:8080>
 
